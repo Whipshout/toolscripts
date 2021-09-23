@@ -1,0 +1,16 @@
+#! Cargo.toml
+
+[package]
+name = "toolscripts"
+version = "0.1.0"
+authors = ["Eduardo Sánchez <whipshout@gmail.com>"]
+description = "Tool to find some text in wanted files"
+edition = "2021"
+
+[lib]
+name = "toolscripts"
+path = "src/lib/mod.rs"
+
+[dependencies]
+walkdir = "2"
+glob = "0.3.0"
