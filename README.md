@@ -14,10 +14,10 @@ Processing file: "loyalty\\src\\fr\\cora\\src\\ExtractAll.ts"
 
 File report.txt:
 
-Possible error in provider: "cepsa"
+Possible error in provider: "cepsa"<br>
 File: loyalty\src\es\cepsa\src\ExtractBalance.ts
 
-Possible error in provider: "cora"
+Possible error in provider: "cora"<br>
 File: loyalty\src\fr\cora\src\ExtractAll.ts
 
 
