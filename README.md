@@ -2,9 +2,9 @@ Console:
 
 ****************** OPEN SEARCH ******************
 
-Processing file: "loyalty\\src\\au\\magic\\ExtractBalance.ts"
-Processing file: "loyalty\\src\\es\\cepsa\\src\\ExtractBalance.ts"
-Processing file: "loyalty\\src\\fr\\cora\\src\\ExtractAll.ts"
+Processing file: "loyalty\\src\\au\\magic\\ExtractBalance.ts"<br>
+Processing file: "loyalty\\src\\es\\cepsa\\src\\ExtractBalance.ts"<br>
+Processing file: "loyalty\\src\\fr\\cora\\src\\ExtractAll.ts"<br>
 
 ****************** CLOSE SEARCH ******************
 
